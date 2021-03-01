@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>me.jittagornp.example</groupId>
-    <artifactId>java-generics</artifactId>
+    <artifactId>java-generics-example</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
